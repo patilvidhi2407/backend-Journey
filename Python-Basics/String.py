@@ -52,19 +52,19 @@ name = 'World'
 #     print("Not valid")
 
 
-password = 'vidhi#patil'
-n = len(password)
+# password = 'vidhi#patil'
+# n = len(password)
 
-has_digit = False
-has_letter = False
+# has_digit = False
+# has_letter = False
 
-for ch in password:
-    if ch.isdigit():
-        has_digit = True
-    if ch.isalpha():
-        has_letter = True
+# for ch in password:
+#     if ch.isdigit():
+#         has_digit = True
+#     if ch.isalpha():
+#         has_letter = True
 
-if n >= 8 and has_letter and has_digit:
-    print('Strong')
-else:
-    print("Weak")
+# if n >= 8 and has_letter and has_digit:
+#     print('Strong')
+# else:
+#     print("Weak")

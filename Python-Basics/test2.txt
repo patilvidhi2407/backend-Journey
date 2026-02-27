@@ -1,0 +1,7 @@
+Name: Vidhi | Age: 22 | City: Nashik
+Name: John | Age: 22 | City: USA
+Name: OM | Age: 22 | City: Nagpur
+Name: SAI | Age: 22 | City: Goa
+Name: Priti | Age: 22 | City: Pune
+Name: Fan | Age: 60 | City: Mumbai
+Name: Sham | Age: 50 | City: Delhi
