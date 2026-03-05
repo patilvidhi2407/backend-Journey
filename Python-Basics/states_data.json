@@ -1,0 +1,24 @@
+{
+    "states": [
+        {
+            "name": "Maharashtra",
+            "abbreviation": "MH",
+            "area_codes": ["285","145","763","594"]
+        },
+        {
+            "name": "Punjab",
+            "abbreviation": "PB",
+            "area_codes": ["756","489","536","746"]
+        },
+        {
+            "name": "Gujarat",
+            "abbreviation": "GJ",
+            "area_codes": ["723","945","742","863"]
+        },
+        {
+            "name": "Madhya Pradesh",
+            "abbreviation": "MP",
+            "area_codes": ["642","159","248","376"]
+        }
+    ]
+}

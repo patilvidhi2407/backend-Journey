@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vidhi Patil",
+    "age": 25,
+    "password": "pass7890"
+  },
+  {
+    "name": "Sai Shinde",
+    "age": 70,
+    "password": "Sai123456"
+  },
+  {
+    "name": "Aarohi Pawar",
+    "age": 50,
+    "password": "Pawar12345"
+  }
+]

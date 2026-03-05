@@ -1,0 +1,20 @@
+{
+  "states": [
+    {
+      "name": "Maharashtra",
+      "abbreviation": "MH"
+    },
+    {
+      "name": "Punjab",
+      "abbreviation": "PB"
+    },
+    {
+      "name": "Gujarat",
+      "abbreviation": "GJ"
+    },
+    {
+      "name": "Madhya Pradesh",
+      "abbreviation": "MP"
+    }
+  ]
+}
