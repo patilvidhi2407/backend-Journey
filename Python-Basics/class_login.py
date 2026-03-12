@@ -253,6 +253,7 @@ class UserManager:
 
         for user in self.users:
             print(user.display())
+        return
 
 
 def main_menu():

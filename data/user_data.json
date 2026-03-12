@@ -1,0 +1,34 @@
+{
+    "vidhi": {
+        "password": "123456",
+        "age": 22
+    },
+    "rahul": {
+        "password": "pass789",
+        "age": 25
+    },
+    "Aakash": {
+        "password": "Aakash1234",
+        "age": 45
+    },
+    "sita": {
+        "password": "sita1234",
+        "age": 100
+    },
+    "Ram": {
+        "password": "Ram123456",
+        "age": 30
+    },
+    "Sham": {
+        "password": "Sham12345",
+        "age": 10
+    },
+    "Neha": {
+        "password": "Neha12345",
+        "age": 49
+    },
+    "Nick": {
+        "password": "Nick1234",
+        "age": 28
+    }
+}
